@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @kaviv6
-- 👀 I’m interested in HTML CSS PHP
+- 👀 I’m interested in WEB OR APP DEVLOPMENT
 - 🌱 I’m currently pursuing my masters
+
+- TECH-java,python,html,css,php
 
 <!---
 kaviv6/kaviv6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
